@@ -1,0 +1,2 @@
+# BBScalaIntermediate
+Scala Intermediate Course
